@@ -1,0 +1,21 @@
+html {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 30px;
+    color: brown;
+}
+
+p {
+    color: cadetblue;
+}
+
+a {
+    color: cadetblue;
+    font-weight: 900;
+}
+
+hr {
+    color: cadetblue;
+}

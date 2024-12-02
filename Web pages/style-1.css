@@ -1,0 +1,21 @@
+html {
+    background-color: antiquewhite;
+}
+
+h3 {
+    font-size: 30px;
+    color: brown;
+}
+
+p, ul, ol, li {
+    color: cadetblue;
+}
+
+a {
+    color: cadetblue;
+    font-weight: 900;
+}
+
+hr {
+    color: cadetblue;
+}
